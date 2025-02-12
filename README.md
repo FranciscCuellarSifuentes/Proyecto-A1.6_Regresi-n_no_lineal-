@@ -1,0 +1,1 @@
+# Proyecto-A1.6_Regresi-n_no_lineal-
