@@ -14,7 +14,7 @@ Utilizaremos el archivo de nombre “A1.6 Tiempo de Entrega.csv”, donde podrem
 
 [Codigo.jpynb](./A1.6_Regresión_no_lineal.ipynb)
 
-[Base de Datos](./A1.6 Tiempo de Entrega.xls)
+[Base de Datos](./A1.6_Tiempode_Entrega.xls)
 
 Referencia en APA: OpenAI. (2025). ChatGPT (v.4). OpenAI. https://chat.openai.com
 
